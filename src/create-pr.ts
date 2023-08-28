@@ -2,7 +2,7 @@ import { Octokit } from '@octokit/rest';
 import { Buffer } from 'buffer';
 import { graphql } from "@octokit/graphql";
 //  GitHub personal access token
-const GITHUB_TOKEN = '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';
+const GITHUB_TOKEN = 'ACCESS TOKEN';
 
 // repository details
 const owner = 'hinge-health';
