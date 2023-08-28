@@ -5,8 +5,8 @@ import { graphql } from "@octokit/graphql";
 const GITHUB_TOKEN = 'ACCESS TOKEN';
 
 // repository details
-const owner = 'hinge-health';
-const repo = 'mics-bypass-approval';
+const owner = 'owner name';
+const repo = 'repo name';
 const baseBranch = 'main'; //  base branch name
 
 // Initialize Octokit with your personal access token
