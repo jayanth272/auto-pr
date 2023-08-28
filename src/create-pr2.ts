@@ -2,7 +2,7 @@ const axios = require('axios');
 import { Octokit } from '@octokit/rest';
 import { Buffer } from 'buffer';
 
-const GITHUB_TOKEN = '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';
+const GITHUB_TOKEN = 'ACCESS TOKEN';
 const owner = 'hinge-health';
 const repo = 'mics-bypass-approval';
 const baseBranch = 'main';
