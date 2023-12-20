@@ -3,8 +3,8 @@ import { Octokit } from '@octokit/rest';
 import { Buffer } from 'buffer';
 
 const GITHUB_TOKEN = 'ACCESS TOKEN';
-const owner = 'hinge-health';
-const repo = 'mics-bypass-approval';
+const owner = 'owner';
+const repo = 'repo name';
 const baseBranch = 'main';
 const octokit = new Octokit({
   auth: GITHUB_TOKEN,
